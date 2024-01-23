@@ -1,0 +1,41 @@
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\bin\Debug\SystemeGestionHoteliere.exe.config
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\bin\Debug\SystemeGestionHoteliere.exe
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\bin\Debug\SystemeGestionHoteliere.pdb
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.FormLogin.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.Properties.Resources.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.csproj.GenerateResource.cache
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.csproj.CoreCompileInputs.cache
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.csproj.CopyComplete
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.exe
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.pdb
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.FormDashBoard.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlSetting.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlClient.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.MainForm.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlRoom.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.FormUpdatePassword.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlReservation.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlDashboard.resources
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.csprojAssemblyReference.cache
+C:\Users\khadija\Desktop\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.Aboutus.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\bin\Debug\SystemeGestionHoteliere.exe.config
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\bin\Debug\SystemeGestionHoteliere.exe
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\bin\Debug\SystemeGestionHoteliere.pdb
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.Aboutus.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.FormUpdatePassword.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.FormDashBoard.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.FormLogin.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.MainForm.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.Properties.Resources.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlClient.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlDashboard.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlReservation.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlRoom.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.UserControlSetting.resources
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.csproj.GenerateResource.cache
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.csproj.CoreCompileInputs.cache
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.csproj.CopyComplete
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.exe
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.pdb
+C:\Users\khadija\Desktop\khadija Barkaoui\projet\SystemeGestionHoteliere\obj\Debug\SystemeGestionHoteliere.csproj.AssemblyReference.cache
